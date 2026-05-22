@@ -802,7 +802,7 @@ function onMembershipTypeChange() {
 
   const showPlan   = type && type !== "guests-only";
   const showDep    = type === "employee-dependents" || type === "dependents-only";
-  const showGuests = !!type;
+  const showGuests = type === "guests-only";
 
   document.getElementById("plan-wrapper").style.display   = showPlan   ? "block" : "none";
   document.getElementById("num-dep-wrapper").style.display = showDep    ? "block" : "none";
