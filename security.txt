@@ -1,0 +1,5 @@
+Contact: mailto:staffclub@wmail.iitm.ac.in
+Contact: tel:+91-44-22579429
+Canonical: https://staffclub.iitm.ac.in/security.txt
+Preferred-Languages: en
+Policy: https://staffclub.iitm.ac.in/
